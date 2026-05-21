@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(237, 126, 8);
+}
+.head{
+  color:darkblue;
+}
+#bglime{
+    background-color: lime;
+}
+/* h2{
+    
+    background-color: lime;
+} */
+ span{
+    color: red;
+ }
+#para span{
+    color: black;
+    font-size: larger;
+ }
+#para{
+    color: rgb(2, 101, 2);
+ 
+}
+p{
+    color: white;
+    font-size: 20px;
+}
+li{
+    color: white;
+}
+ul li:first-child a{
+    background-color: yellow;
+    color: black;
+    text-decoration: none;
+}
+ul li:last-child a{
+    background-color: blue;
+    color: white;
+     text-decoration: none;
+}
+ ol li:nth-child(2){
+    color: blue;
+}
+ol li:nth-child(3){
+    color: red;
+}
+ol li{
+    color: black;
+}
